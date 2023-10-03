@@ -46,7 +46,7 @@ Material:
     - _QueueOffset: 0
     - _center: 0.5
     m_Colors:
-    - _Tiling: {r: 1, g: 2, b: 0, a: 0}
+    - _Tiling: {r: 6.85, g: -57.15, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6254313723284652216
 MonoBehaviour:
