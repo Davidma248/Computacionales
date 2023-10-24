@@ -55,13 +55,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distortion_Strength: 0.18
+    - _Distortion_Strength: 0.27
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _Color: {r: 0.4764151, g: 0.63579684, b: 1, a: 1}
-    - _Distrortion_Speed: {r: 1.73, g: 0.78, b: 0, a: 0}
-    - _Fresnel_Smooth_Step: {r: 0.48, g: 0.9, b: 0, a: 0}
+    - _Distrortion_Speed: {r: 0.94, g: -0.29, b: 0, a: 0}
+    - _Fresnel_Smooth_Step: {r: 0.38, g: 0.82, b: 0, a: 0}
     - _Intersection_Color: {r: 0, g: 0.48307657, b: 1, a: 0}
-    - _intersection_Smooth_Step: {r: -0.48, g: 0.85, b: 0, a: 0}
+    - _intersection_Smooth_Step: {r: -0.36, g: 0.78, b: 0, a: 0}
   m_BuildTextureStacks: []
